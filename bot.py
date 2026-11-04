@@ -1,4 +1,3 @@
-# bot.py  (Option B: AI-powered answers)
 # Steps for every question:
 #   1. Find the 5 pieces of website text that best match the question
 #   2. Send those pieces + the question to Claude
